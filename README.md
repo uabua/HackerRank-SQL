@@ -8,9 +8,20 @@ This repository contains my solutions for the [HackerRank SQL](https://www.hacke
 
 ---
 
-## Contents
+## Subdomains
 
-* *to be updated soon...*
+* [Basic Select](https://github.com/uabua/HackerRank-SQL/tree/master/basic-select)
+* [Advanced Select](https://github.com/uabua/HackerRank-SQL/tree/master/advanced-select)
+* [Aggregation](https://github.com/uabua/HackerRank-SQL/tree/master/aggregation)
+* [Basic Join](https://github.com/uabua/HackerRank-SQL/tree/master/basic-join)
+* [Advanced Join](https://github.com/uabua/HackerRank-SQL/tree/master/advanced-join)
+* [Alternative Queries](https://github.com/uabua/HackerRank-SQL/tree/master/alternative-queries)
+
+---
+
+## Language
+
+Oracle
 
 ---
 
